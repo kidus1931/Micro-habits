@@ -5,7 +5,7 @@
 nav{ display:flex;justify-content:end;position:relative;top:-60px;gap:10px;margin-right:10px;
 }
 #i1::before{ 
-    content:url('images/icon2.png');
+    content:url('icon2.png');
     position:relative;bottom:-13px;right:5px;
 }
 p{ font-size:larger;font-family:Lora,sans-serif;color:#3352a1;font-weight:550
@@ -29,3 +29,4 @@ button{ background-color:#fefcaf;color:#4a3113;border:solid #fefcaf;border-radiu
 }
 a{text-decoration:none;
 }
+
