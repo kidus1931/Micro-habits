@@ -1,0 +1,31 @@
+body{
+    background-color:#fefcaf;height:1000px;
+}
+p{ font-family:Lora,sans-serif;color:#4a3113;
+}
+#i1{ position: relative;left:50%;font-size:x-large;
+}
+img{ height:300px; width:auto;
+}
+#i2{display:flex;margin-bottom:100px
+}
+#i3{ width:40%;font-size:large;line-break:auto;
+}
+#i4{ width:40%;font-size:large;
+}
+#i5{ width:45%;position:absolute;right:20px;top:770px;height:auto;
+}
+#i6{ margin-top:50px;
+}
+#i7{width:40%;font-size:large;
+}
+#i8{ position:relative;left:300px;bottom:-50px;background-color:#4a3113;color:#fefcaf;
+    border:none;border-radius:5px;
+    padding-right:20px;padding-left:20px;padding-top:5px;padding-bottom:5px;
+}
+#i9{ position:relative;left:100px;bottom:-50px;background-color:#4a3113;color:#fefcaf;
+    border:none;border-radius:5px;
+    padding-right:20px;padding-left:20px;padding-top:5px;padding-bottom:5px;
+}
+#i10{ position:relative;left:30px;bottom:-10px;font-weight:800;
+}
